@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+     Создается библиотека C:\Users\1\source\repos\KarpovSaveliyEvgenievichASUb-23-2\x64\Debug\ConsoleApplication1.lib и объект C:\Users\1\source\repos\KarpovSaveliyEvgenievichASUb-23-2\x64\Debug\ConsoleApplication1.exp
+LINK : warning LNK4217: Символ "glewInit", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции "main".
+LINK : warning LNK4217: Символ "glewGetErrorString", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции "main".
+LINK : warning LNK4217: Символ "glewExperimental", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции "main".
+  ConsoleApplication1.vcxproj -> C:\Users\1\source\repos\KarpovSaveliyEvgenievichASUb-23-2\x64\Debug\ConsoleApplication1.exe
