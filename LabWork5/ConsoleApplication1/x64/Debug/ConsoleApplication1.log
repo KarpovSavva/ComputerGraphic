@@ -1,0 +1,22 @@
+﻿     Создается библиотека C:\Users\1\source\repos\KarpovSaveliyEvgenievichASUb-23-2\x64\Debug\ConsoleApplication1.lib и объект C:\Users\1\source\repos\KarpovSaveliyEvgenievichASUb-23-2\x64\Debug\ConsoleApplication1.exp
+LINK : warning LNK4217: Символ "glewInit", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции "main".
+LINK : warning LNK4217: Символ "glewGetErrorString", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewBindBuffer", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции ""private: void __cdecl Mesh::setupMesh(void)" (?setupMesh@Mesh@@AEAAXXZ)".
+LINK : warning LNK4217: Символ "__glewBufferData", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции ""private: void __cdecl Mesh::setupMesh(void)" (?setupMesh@Mesh@@AEAAXXZ)".
+LINK : warning LNK4217: Символ "__glewGenBuffers", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции ""private: void __cdecl Mesh::setupMesh(void)" (?setupMesh@Mesh@@AEAAXXZ)".
+LINK : warning LNK4217: Символ "__glewAttachShader", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewCompileShader", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewCreateProgram", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewCreateShader", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewEnableVertexAttribArray", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции ""private: void __cdecl Mesh::setupMesh(void)" (?setupMesh@Mesh@@AEAAXXZ)".
+LINK : warning LNK4217: Символ "__glewGetUniformLocation", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewLinkProgram", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewShaderSource", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewUniform3f", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewUniformMatrix4fv", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции "main".
+LINK : warning LNK4217: Символ "__glewUseProgram", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции ""public: void __cdecl Mesh::Draw(unsigned int)" (?Draw@Mesh@@QEAAXI@Z)".
+LINK : warning LNK4217: Символ "__glewVertexAttribPointer", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции ""private: void __cdecl Mesh::setupMesh(void)" (?setupMesh@Mesh@@AEAAXXZ)".
+LINK : warning LNK4217: Символ "__glewBindVertexArray", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции ""public: void __cdecl Mesh::Draw(unsigned int)" (?Draw@Mesh@@QEAAXI@Z)".
+LINK : warning LNK4217: Символ "__glewGenVertexArrays", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции ""private: void __cdecl Mesh::setupMesh(void)" (?setupMesh@Mesh@@AEAAXXZ)".
+LINK : warning LNK4217: Символ "glewExperimental", определенный в "glew.obj", импортирован "ConsoleApplication1.obj" в функции "main".
+  ConsoleApplication1.vcxproj -> C:\Users\1\source\repos\KarpovSaveliyEvgenievichASUb-23-2\x64\Debug\ConsoleApplication1.exe
