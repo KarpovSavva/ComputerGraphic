@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\1\source\repos\KarpovSaveliyEvgenievichASUb-23-2\ConsoleApplication1\ConsoleApplication1.cpp(37,44): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\1\source\repos\KarpovSaveliyEvgenievichASUb-23-2\ConsoleApplication1\ConsoleApplication1.cpp(267,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\1\source\repos\KarpovSaveliyEvgenievichASUb-23-2\x64\Debug\ConsoleApplication1.exe
